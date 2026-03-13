@@ -1,10 +1,10 @@
 title: Nagymaros
 description: Jekyll theme for a conference website
-baseurl: /jekyll-nagymaros
-url: https://piazzai.github.io
+baseurl: /2026-demo
+url: https://nrhemanth.github.io
 
 permalink: pretty
-theme: jekyll-nagymaros
+remote_theme: piazzai/jekyll-nagymaros
 
 home: /
 copyright: Future Labs Summer School
@@ -19,6 +19,7 @@ exclude:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 sass:
   sourcemap: never
