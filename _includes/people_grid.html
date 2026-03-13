@@ -1,0 +1,17 @@
+<div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 g-3 mb-4">
+  {% for person in include.people %}
+  <div class="col">
+    <div class="card border-0 text-center bg-transparent">
+      <img src="{{ '/assets/images/' | append: person.photo | relative_url }}"
+           class="rounded mx-auto mt-2"
+           style="width:175px;height:175px;object-fit:cover;object-position:{{ person.photo_position | default: 'top center' }};border-radius:50%;"
+           alt="{{ person.name }}">
+      <div class="card-body p-2">
+        <p class="fw-semibold mb-0">{{ person.name }}</p>
+        <p class="text-muted mb-0" style="font-size:0.85rem;">{{ person.role }}</p>
+        <p class="text-muted mb-0" style="font-size:0.85rem;">{{ person.affiliation }}</p>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

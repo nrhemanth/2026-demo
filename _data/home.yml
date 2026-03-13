@@ -1,0 +1,93 @@
+schedule:
+  - day: "Day 1"
+    description: "Get hands-on experience with robotic synthesis!"
+    url: "/schedule/#day-1-molecular-foundry-summer-school-only"
+  - day: "Day 2"
+    description: "Apply active learning algorithms for material optimization!"
+    url: "/schedule/#day-2-tutorials"
+  - day: "Day 3"
+    description: "Join leaders in the field for the AI/ML enabled Materials Development Symposium!"
+    url: "/schedule/#day-3-tutorials-and-symposium"
+
+invited_speakers:
+  - name: "Tonio Buonassisi"
+    affiliation: "Massachusetts Institute of Technology"
+    photo: "TonioBuonassisi.jpg"
+    bio: >
+      Tonio Buonassisi is a Professor of Mechanical Engineering at the Massachusetts Institute of
+      Technology (MIT). He is pioneering the application of artificial intelligence to develop new
+      materials for societally beneficial applications. His research in solar photovoltaics and
+      technoeconomic analysis assisted technology developments in dozens of companies, earning him
+      a US Presidential Early Career Award for Scientists and Engineers (PECASE), a National
+      Science Foundation CAREER Award, and a Google Faculty Award. He directs the ADDEPT Center,
+      a DOE-funded national center devoted to making semi-transparent perovskite solar cells
+      durable for terrestrial tandems. He is PI of the Accelerated Materials Lab for
+      Sustainability (AMLS) at MIT, and served as founding director for the Accelerated Materials
+      Development for Manufacturing Programme in Singapore. A recipient of the MIT Everett Moore
+      Baker Memorial Award for Excellence in Undergraduate Teaching, his passion for education is
+      evidenced by the ~1M views of his OpenCourseware/YouTube PV lectures series.
+  - name: "Speaker 2"
+    affiliation: "Institute 2"
+    photo: "placeholder-image-person-jpg.jpg"
+    bio: "Coming soon."
+  - name: "Speaker 3"
+    affiliation: "Institute 3"
+    photo: "placeholder-image-person-jpg.jpg"
+    bio: "Coming soon."
+
+organizers:
+  - name: "Shijing Sun"
+    affiliation: "University of Cambridge"
+    role: "Associate Professor"
+    photo: "shijing-sun.jpeg"
+  - name: "Carolin M. Sutter-Fella"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Staff Scientist"
+    photo: "carolin_sutterfella.png"
+  - name: "Yuanyuan Zhou"
+    affiliation: "Hong Kong University of Science and Technology"
+    role: "Associate Professor"
+    photo: "Yuanyuan.jpg"
+    photo_position: "50% 30%"
+
+experimental_instructors:
+  - name: "Aldair Ernesto Gongora"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Staff Scientist"
+    photo: "Aldair Gongora - gongora1_0179.jpg"
+  - name: "Stephanie Ribet"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Staff Scientist"
+    photo: "steph.jpeg"
+  - name: "Peter Ercius"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Staff Scientist"
+    photo: "peter.jpeg"
+  - name: "Yi-Ru Liu"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "PhD Student"
+    photo: "yiru_liu.jpeg"
+    photo_position: "50% 30%"
+  - name: "Ed Bernard"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Staff Scientist"
+    photo: "ed_bernard.jpg"
+    photo_position: "50% 30%"
+
+data_instructors:
+  - name: "Maher Alghalayini"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Postdoc"
+    photo: "maher.png"
+  - name: "Morgan Wall"
+    affiliation: "Lawrence Berkeley National Lab"
+    role: "Computer Systems Engineer"
+    photo: "Morgan.jpg"
+  - name: "Shuan Cheng"
+    affiliation: "University of Washington"
+    role: "PhD Student"
+    photo: "shuan_cheng.jpg"
+  - name: "Hemanth Neelgund Ramesh"
+    affiliation: "University of Washington"
+    role: "PhD Student"
+    photo: "hemanth_uw.png"
