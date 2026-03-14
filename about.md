@@ -5,7 +5,7 @@ permalink: /about/
 navorder: 2
 ---
 
-The 2026 Future Labs Summer School brings together students and researchers to explore laboratory automation for the discovery of energy materials. Over three days at Lawrence Berkeley National Laboratory, participants engage in hands-on robotic synthesis, machine learning tutorials, and a symposium featuring leaders in the field.
+The 2026 Future Labs Summer School brings together students and researchers to explore materials science in the era of automation and AI/ML. Over three days at Lawrence Berkeley National Laboratory — Molecular Foundry, participants engage in hands-on robotic synthesis, machine learning tutorials, and a symposium featuring leaders in the field.
 
 <hr class="my-4">
 
@@ -23,7 +23,7 @@ The 2026 Future Labs Summer School brings together students and researchers to e
 <div class="col">
 <div class="p-3 bg-gray-2 rounded h-100">
 <h5>AI/ML applications</h5>
-<p class="mb-0">Students learn current applications of artificial intelligence and machine learning in energy materials research, then apply these techniques directly to data collected during the lab sessions.</p>
+<p class="mb-0">Students learn current applications of artificial intelligence and machine learning in materials science, then apply these techniques directly to data collected during the lab sessions.</p>
 </div>
 </div>
 
@@ -34,18 +34,12 @@ The 2026 Future Labs Summer School brings together students and researchers to e
 </div>
 </div>
 
-<div class="col">
-<div class="p-3 bg-gray-2 rounded h-100">
-<h5>Emerging energy materials</h5>
-<p class="mb-0">Instruction focuses on halide perovskites and thin-film semiconductors designed for energy applications, and how AI/ML can accelerate their development and address unique challenges.</p>
-</div>
-</div>
 
 </div>
 
 <h2>Who should attend</h2>
 
-<p>The summer school is open to professionals, postdocs, graduate students, and undergraduate students registered for the 2026 Molecular Foundry Annual Meeting. No prior coding experience is required — all hands-on activities support ChatGPT-assisted coding.</p>
+<p>The summer school is open to professionals, postdocs, graduate students, and undergraduate students. No prior coding experience is required — all hands-on activities support ChatGPT-assisted coding.</p>
 
 <h2>Sponsors</h2>
 
@@ -58,7 +52,6 @@ The 2026 Future Labs Summer School brings together students and researchers to e
 <div class="d-flex flex-wrap gap-4 align-items-center justify-content-center mb-4">
   <img src="{{ '/assets/images/logos/foundary.png' | relative_url }}" alt="Molecular Foundry" style="height:120px;object-fit:contain;">
   <img src="{{ '/assets/images/logos/lawrence.png' | relative_url }}" alt="Lawrence Berkeley National Laboratory" style="height:120px;object-fit:contain;">
-  <img src="{{ '/assets/images/logos/washington.png' | relative_url }}" alt="University of Washington" style="height:120px;object-fit:contain;">
 </div>
 
 <h2>Contact</h2>

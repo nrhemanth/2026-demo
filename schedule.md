@@ -8,7 +8,7 @@ navorder: 3
 <p class="text-muted fst-italic mb-4">This is a tentative schedule and is subject to change.</p>
 
 <div class="p-3 mb-4 bg-gray-2 rounded">
-<strong>Venue:</strong> Lawrence Berkeley National Laboratory<br>
+<strong>Venue:</strong> Lawrence Berkeley National Laboratory — Molecular Foundry<br>
 1 Cyclotron Road, Berkeley, CA 94720<br>
 <a href="https://www.google.com/maps/place/Lawrence+Berkeley+National+Laboratory" target="_blank">Get directions →</a>
 </div>
@@ -102,14 +102,14 @@ navorder: 3
       <td>9:15</td>
       <td>
         ChatGPT coding &amp; intro Google Colab<br>
-        <span class="text-muted small">Shuan / Hemanth</span>
+        <span class="text-muted small">Shuan Cheng / Hemanth Neelgund Ramesh</span>
       </td>
     </tr>
     <tr>
       <td>9:45</td>
       <td>
         Accelerate your science with an AI assistant<br>
-        <span class="text-muted small">Anika</span>
+        <span class="text-muted small">Anika Promi (Postdoc, Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -120,7 +120,7 @@ navorder: 3
       <td>11:00</td>
       <td>
         Data with Crucible<br>
-        <span class="text-muted small">Morgan</span>
+        <span class="text-muted small">Morgan Wall (Computer Systems Engineer, Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -131,7 +131,7 @@ navorder: 3
       <td>12:45</td>
       <td>
         Getting your data AI ready<br>
-        <span class="text-muted small">Shuan</span>
+        <span class="text-muted small">Shuan Cheng (PhD Student, University of Washington)</span>
       </td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ navorder: 3
       <td>1:45</td>
       <td>
         Basics Gaussian process surrogate<br>
-        <span class="text-muted small">Maher / Marcus</span>
+        <span class="text-muted small">Maher Alghalayini (Postdoc, LBL) / Marcus Noack (Staff Scientist, LBL)</span>
       </td>
     </tr>
     <tr>
@@ -157,14 +157,14 @@ navorder: 3
       <td>3:45</td>
       <td>
         Bayesian optimization<br>
-        <span class="text-muted small">Maher / Marcus</span>
+        <span class="text-muted small">Maher Alghalayini (Postdoc, LBL) / Marcus Noack (Staff Scientist, LBL)</span>
       </td>
     </tr>
     <tr>
       <td>4:30</td>
       <td>
         Intro neural network<br>
-        <span class="text-muted small">Hemanth</span>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (PhD Student, University of Washington)</span>
       </td>
     </tr>
     <tr>
@@ -190,7 +190,7 @@ navorder: 3
       <td>9:00</td>
       <td>
         Hardware tool building for autonomous labs<br>
-        <span class="text-muted small">Aldair</span>
+        <span class="text-muted small">Aldair Ernesto Gongora (Staff Scientist, Lawrence Livermore National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -201,7 +201,7 @@ navorder: 3
       <td>11:00</td>
       <td>
         Continued hardware tool building<br>
-        <span class="text-muted small">Aldair</span>
+        <span class="text-muted small">Aldair Ernesto Gongora (Staff Scientist, Lawrence Livermore National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -212,7 +212,7 @@ navorder: 3
       <td>1:00</td>
       <td>
         Generative models and/or agentic workflows<br>
-        <span class="text-muted small">Hemanth</span>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (PhD Student, University of Washington)</span>
       </td>
     </tr>
     <tr>

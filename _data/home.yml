@@ -52,7 +52,7 @@ organizers:
 
 experimental_instructors:
   - name: "Aldair Ernesto Gongora"
-    affiliation: "Lawrence Berkeley National Lab"
+    affiliation: "Lawrence Livermore National Lab"
     role: "Staff Scientist"
     photo: "Aldair Gongora - gongora1_0179.jpg"
   - name: "Stephanie Ribet"
@@ -68,7 +68,7 @@ experimental_instructors:
     role: "PhD Student"
     photo: "yiru_liu.jpeg"
     photo_position: "50% 30%"
-  - name: "Ed Bernard"
+  - name: "Ed Barnard"
     affiliation: "Lawrence Berkeley National Lab"
     role: "Staff Scientist"
     photo: "ed_bernard.jpg"

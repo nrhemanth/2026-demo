@@ -7,7 +7,7 @@ navorder: 1
 
 <div class="container px-5 py-3 bg-gray-2 rounded">
 
-<p>Robotics and AI are transformative tools for scientific discovery and integral components of future laboratories. The primary goal of the summer school is to engage students in laboratory automation for the discovery of energy materials. Through lectures, coding tutorials, and robotic synthesis experiments, participants will explore closed-loop experiment design, machine learning, data handling and visualization, as well as hands-on lab work to create thin-film semiconductors using a robotic platform.</p>
+<p>Robotics and AI are transformative tools for scientific discovery and integral components of future laboratories. The primary goal of the summer school is to engage students in materials science in the era of automation and AI/ML. Through lectures, coding tutorials, and robotic synthesis experiments, participants will explore closed-loop experiment design, machine learning, data handling and visualization, as well as hands-on lab work to create thin-film semiconductors using a robotic platform.</p>
 
 <p>We aim to foster the development of the future workforce in materials science, engineering, computer science, physics, and related fields, anticipating that science and research will increasingly integrate artificial intelligence and machine learning (AI/ML).</p>
 
@@ -18,7 +18,6 @@ navorder: 1
 <h2>Who is eligible to register?</h2>
 
 <ul class="list-unstyled">
-<li>Those registered for the 2026 Molecular Foundry Annual Meeting.</li>
 <li>Professionals, postdocs, graduate students, undergraduate students.</li>
 <li>All coding activities will have ChatGPT-assisted coding — no Python or coding experience required.</li>
 </ul>
