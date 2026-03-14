@@ -102,14 +102,14 @@ navorder: 3
       <td>9:15</td>
       <td>
         ChatGPT coding &amp; intro Google Colab<br>
-        <span class="text-muted small">Shuan Cheng / Hemanth Neelgund Ramesh</span>
+        <span class="text-muted small">Shuan Cheng (University of Washington) / Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
     <tr>
       <td>9:45</td>
       <td>
         Accelerate your science with an AI assistant<br>
-        <span class="text-muted small">Anika Promi (Postdoc, Lawrence Berkeley National Lab)</span>
+        <span class="text-muted small">Anika Promi (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -120,7 +120,7 @@ navorder: 3
       <td>11:00</td>
       <td>
         Data with Crucible<br>
-        <span class="text-muted small">Morgan Wall (Computer Systems Engineer, Lawrence Berkeley National Lab)</span>
+        <span class="text-muted small">Morgan Wall (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -131,7 +131,7 @@ navorder: 3
       <td>12:45</td>
       <td>
         Getting your data AI ready<br>
-        <span class="text-muted small">Shuan Cheng (PhD Student, University of Washington)</span>
+        <span class="text-muted small">Shuan Cheng (University of Washington)</span>
       </td>
     </tr>
     <tr>
@@ -142,7 +142,7 @@ navorder: 3
       <td>1:45</td>
       <td>
         Basics Gaussian process surrogate<br>
-        <span class="text-muted small">Maher Alghalayini (Postdoc, LBL) / Marcus Noack (Staff Scientist, LBL)</span>
+        <span class="text-muted small">Maher Alghalayini (Lawrence Berkeley National Lab) / Marcus Noack (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr>
@@ -157,14 +157,14 @@ navorder: 3
       <td>3:45</td>
       <td>
         Bayesian optimization<br>
-        <span class="text-muted small">Maher Alghalayini (Postdoc, LBL) / Marcus Noack (Staff Scientist, LBL)</span>
+        <span class="text-muted small">Maher Alghalayini (Lawrence Berkeley National Lab) / Marcus Noack (Lawrence Berkeley National Lab)</span>
       </td>
     </tr>
     <tr>
       <td>4:30</td>
       <td>
         Intro neural network<br>
-        <span class="text-muted small">Hemanth Neelgund Ramesh (PhD Student, University of Washington)</span>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
     <tr>
@@ -190,7 +190,7 @@ navorder: 3
       <td>9:00</td>
       <td>
         Hardware tool building for autonomous labs<br>
-        <span class="text-muted small">Aldair Ernesto Gongora (Staff Scientist, Lawrence Livermore National Lab)</span>
+        <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -201,7 +201,7 @@ navorder: 3
       <td>11:00</td>
       <td>
         Continued hardware tool building<br>
-        <span class="text-muted small">Aldair Ernesto Gongora (Staff Scientist, Lawrence Livermore National Lab)</span>
+        <span class="text-muted small">Aldair Ernesto Gongora (Lawrence Livermore National Lab)</span>
       </td>
     </tr>
     <tr style="background-color:#efefef;">
@@ -212,14 +212,14 @@ navorder: 3
       <td>1:00</td>
       <td>
         Generative models and/or agentic workflows<br>
-        <span class="text-muted small">Hemanth Neelgund Ramesh (PhD Student, University of Washington)</span>
+        <span class="text-muted small">Hemanth Neelgund Ramesh (University of Washington)</span>
       </td>
     </tr>
     <tr>
       <td>1:45</td>
       <td>
         Invited talks &amp; panel discussion<br>
-        <span class="text-muted small">Potential speakers: Prof. Shijing Sun · Prof. Yuanyuan Zhou · Prof. Tonio Buonassisi · Dr. Wiebke Koepp · Dr. Jin Qian</span>
+        <span class="text-muted small">Shijing Sun (Cambridge) · Yuanyuan Zhou (HKUST) · Tonio Buonassisi (MIT) · Wiebke Koepp · Jin Qian</span>
       </td>
     </tr>
   </tbody>
