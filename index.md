@@ -7,7 +7,7 @@ navorder: 1
 
 <div class="container px-5 py-3 bg-gray-2 rounded">
 
-<p>Robotics and AI are transformative tools for scientific discovery and integral components of future laboratories. The primary goal of the summer school is to engage students in materials science in the era of automation and AI/ML. Through lectures, coding tutorials, and robotic synthesis experiments, participants will explore closed-loop experiment design, machine learning, data handling and visualization, as well as hands-on lab work to create thin-film semiconductors using a robotic platform.</p>
+<p>Robotics and AI are transformative tools for scientific discovery and integral components of future laboratories. The primary goal of the summer school is to engage students in materials science in the era of automation and AI/ML. Through lectures, coding tutorials, hands-on robotic hardware integration and robotic synthesis experiments, participants will explore closed-loop experiment design, machine learning, data handling and visualization, as well as hands-on lab work to create thin film and nanocrystal semiconductors using different robotic platforms.</p>
 
 <p>We aim to foster the development of the future workforce in materials science, engineering, computer science, physics, and related fields, anticipating that science and research will increasingly integrate artificial intelligence and machine learning (AI/ML).</p>
 
@@ -20,6 +20,11 @@ navorder: 1
 <ul class="list-unstyled">
 <li>Professionals, postdocs, graduate students, undergraduate students.</li>
 <li>All coding activities will have ChatGPT-assisted coding — no Python or coding experience required.</li>
+</ul>
+
+<ul class="list-unstyled mt-2">
+<li> Bring your own laptop.</li>
+<li> Long pants and close-toed shoes required to enter labs.</li>
 </ul>
 
 <a href="#" class="btn btn-primary mb-4">Register</a>
