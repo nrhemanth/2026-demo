@@ -34,6 +34,13 @@ The 2026 Future Labs Summer School brings together students and researchers to e
 </div>
 </div>
 
+<div class="col">
+<div class="p-3 bg-gray-2 rounded h-100">
+<h5>Hardware control &amp; integration</h5>
+<p class="mb-0">Participants will learn about hardware development considerations towards autonomous laboratories.</p>
+</div>
+</div>
+
 
 </div>
 
