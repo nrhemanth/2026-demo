@@ -5,7 +5,7 @@ permalink: /about/
 navorder: 2
 ---
 
-The 2026 Future Labs Summer School brings together students and researchers to explore materials science in the era of automation and AI/ML. Over three days at Lawrence Berkeley National Laboratory — Molecular Foundry, participants engage in hands-on robotic synthesis, machine learning tutorials, and a symposium featuring leaders in the field.
+The 2026 Future Labs Summer School brings together students and researchers to explore materials science in the era of automation and AI/ML. Over three days at Lawrence Berkeley National Laboratory’s Molecular Foundry, participants engage in hands-on robotic synthesis, machine learning tutorials, and tinkering with robotic hardware.
 
 <hr class="my-4">
 
@@ -16,7 +16,7 @@ The 2026 Future Labs Summer School brings together students and researchers to e
 <div class="col">
 <div class="p-3 bg-gray-2 rounded h-100">
 <h5>Robot-assisted synthesis</h5>
-<p class="mb-0">Participants fabricate and characterize thin-film halide perovskite semiconductors using the Molecular Foundry's AutoBot robotic platform — hands-on experience with state-of-the-art laboratory automation.</p>
+<p class="mb-0">Participants fabricate and characterize thin-film and nanocrystal semiconductors using the Molecular Foundry's robotic platforms — hands-on experience with state-of-the-art laboratory automation.</p>
 </div>
 </div>
 
