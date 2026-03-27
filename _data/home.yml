@@ -49,12 +49,12 @@ organizers:
     role: "Professor"
     photo: "Yuanyuan.jpg"
     photo_position: "50% 30%"
-
-experimental_instructors:
   - name: "Aldair Ernesto Gongora"
     affiliation: "Lawrence Livermore National Lab"
     role: "Staff Scientist"
     photo: "Aldair Gongora - gongora1_0179.jpg"
+
+experimental_instructors:
   - name: "Stephanie Ribet"
     affiliation: "Lawrence Berkeley National Lab"
     role: "Staff Scientist"
